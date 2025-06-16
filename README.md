@@ -23,3 +23,4 @@ Scalable Architecture: Socket.IO handles multiple concurrent connections efficie
 Simple User Interface: Provides a basic chat window with a message display area and an input field for sending messages.
 Basic Styling: Includes CSS for a clean and functional appearance.
 
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/2a572169-87dc-4184-9493-202dce5a6d3d)
